@@ -13,8 +13,8 @@ import (
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "IP-Tracker",
-	Short: "CLI IP-Tracker in Golang",
-	Long:  `CLI IP-Tracker in Golang.`,
+	Short: "CLI IP-Tracker app in Golang",
+	Long:  `CLI IP-Tracker app in Golang.`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	// Run: func(cmd *cobra.Command, args []string) { },
