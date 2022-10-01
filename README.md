@@ -22,11 +22,11 @@ Flags:
 
 Use "IP-Tracker [command] --help" for more information about a command.
  ```
- go run main.go trace {ip address}
+# go run main.go trace {ip address}
 ```
  go run main.go trace 8.8.4.4
  ```
- output:
+# Output:
  ```
 DATA FOUND :
 IP: 8.8.4.4
