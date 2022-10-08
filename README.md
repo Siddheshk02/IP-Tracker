@@ -1,3 +1,6 @@
+```
+ go get -u github.com/Siddheshk02/IP-Tracker
+ ```
 # IP-Tracker
 
 ```
@@ -22,11 +25,11 @@ Flags:
 
 Use "IP-Tracker [command] --help" for more information about a command.
  ```
- go run main.go trace {ip address}
+ ## go run main.go trace {IP Address}
 ```
  go run main.go trace 8.8.4.4
  ```
- output:
+ ## output:
  ```
 DATA FOUND :
 IP: 8.8.4.4
